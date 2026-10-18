@@ -1,0 +1,11 @@
+﻿  test_bubble_sort.cpp
+C:\Прога\Sem1-4\tests\test_bubble_sort.cpp(2,10): error C1083: Не удается открыть файл включение: bubble_sort.h: No such file or directory,
+  test_exchange_sort.cpp
+C:\Прога\Sem1-4\tests\test_exchange_sort.cpp(2,10): error C1083: Не удается открыть файл включение: exchange_sort.h: No such file or directory,
+  test_insertion_sort.cpp
+C:\Прога\Sem1-4\tests\test_insertion_sort.cpp(2,10): error C1083: Не удается открыть файл включение: insertion_sort.h: No such file or directory,
+  test_optimized_bubble_sort.cpp
+C:\Прога\Sem1-4\tests\test_optimized_bubble_sort.cpp(2,10): error C1083: Не удается открыть файл включение: optimized_bubble_sort.h: No such file or directory,
+  test_selection_sort.cpp
+C:\Прога\Sem1-4\tests\test_selection_sort.cpp(3,10): error C1083: Не удается открыть файл включение: selection_sort.h: No such file or directory,
+  Создание кода...

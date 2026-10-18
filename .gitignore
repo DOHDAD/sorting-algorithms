@@ -1,0 +1,31 @@
+# Build directories
+build/
+out/
+cmake-build-*/
+x64/
+Debug/
+Release/
+temp_sort/
+
+# Test data (не загружаем тестовые файлы)
+test_data/
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+
+# Compiled files
+*.obj
+*.lib
+*.exe
+*.dll
+*.pdb
+*.ilk
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
